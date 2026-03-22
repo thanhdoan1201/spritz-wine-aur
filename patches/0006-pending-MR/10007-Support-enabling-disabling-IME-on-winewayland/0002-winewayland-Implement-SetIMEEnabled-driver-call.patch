@@ -1,4 +1,4 @@
-From bec44b22a41c1b8a0f7a5e19ac3e8fc987152345 Mon Sep 17 00:00:00 2001
+From 1987f4d297bb5b4e47550b2681c67287227e3740 Mon Sep 17 00:00:00 2001
 From: Ziia Shi <mkrsym1@gmail.com>
 Date: Sun, 1 Feb 2026 01:56:27 +0100
 Subject: [PATCH 2/4] winewayland: Implement SetIMEEnabled driver call.

@@ -1,4 +1,4 @@
-From 5cc333314ee4e60cdf040f2ab3bb3ac60362f3af Mon Sep 17 00:00:00 2001
+From 7f280c920bbedfe6ebfb2dcc1abdf2b3a6d735e5 Mon Sep 17 00:00:00 2001
 From: NelloKudo <marshnelloosu@gmail.com>
 Date: Mon, 25 Aug 2025 20:39:20 +0200
 Subject: [PATCH 3/8] programs: add Steam.exe stub from Proton
@@ -14,10 +14,10 @@ source for the file: https://github.com/ValveSoftware/Proton/tree/1e52f95633c514
  create mode 100644 programs/steam/steam.c
 
 diff --git a/configure.ac b/configure.ac
-index bb711917247..cd3d46ac324 100644
+index b4442c27d90..4a25e9970a3 100644
 --- a/configure.ac
 +++ b/configure.ac
-@@ -3620,6 +3620,7 @@ WINE_CONFIG_MAKEFILE(programs/shutdown)
+@@ -3688,6 +3688,7 @@ WINE_CONFIG_MAKEFILE(programs/shutdown)
  WINE_CONFIG_MAKEFILE(programs/sort)
  WINE_CONFIG_MAKEFILE(programs/spoolsv)
  WINE_CONFIG_MAKEFILE(programs/start)
